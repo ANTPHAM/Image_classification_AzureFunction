@@ -52,7 +52,7 @@ The function will be created and deployed in local and in a Azure account using 
     • Run the function locally
 	func start
 
-    • Test the finction locally
+    • Test the fonction locally
 	In Posman, open the following URL to invoke the function with the URL of a cat image, insert an image under binary format and confirm that the returned 	JSON classifies the image as a cat.
 	http://localhost:7071/api/classify
 	
