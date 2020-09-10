@@ -53,8 +53,10 @@ The function will be created and deployed in local and in a Azure account using 
 	func start
 
     • Test the finction locally
-	In Posman, open the following URL to invoke the function with the URL of a cat image, insert an image under binary format and confirm that the returned JSON classifies the image as a cat.
+	In Posman, open the following URL to invoke the function with the URL of a cat image, insert an image under binary format and confirm that the returned 	JSON classifies the image as a cat.
 	http://localhost:7071/api/classify
+	
+![Alt text](/Postman.png?raw=true "Test the Azure function with Postman")
 
     • Publish the function in Azure using Windows Power Shell
 
