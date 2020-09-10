@@ -58,7 +58,7 @@ The function will be created and deployed in local and in a Azure account using 
 	
 ![Alt text](/Postman.png?raw=true "Test the Azure function with Postman")
 
-    • Publish the function in Azure using Windows Power Shell
+4) Publish the function in Azure using Windows Power Shell
 
 	Connect-AzAccount
 	Get-AzRessource
