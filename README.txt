@@ -1,4 +1,4 @@
-# Apply machine learning models in Azure Functions with Python and TensorFlow
+# APPLY A MACHINE LEARNING MODEL IN AZURE FUNCTIONS WITH PYTHON AND TENSORFLOW
 
 This project uses Python, TensorFlow, and Azure Functions to deploy a machine learning model to classify images. The function will be created and deployed in local and in a Azure account using command lines and Visual Studio as well.
 
