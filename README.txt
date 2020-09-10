@@ -42,7 +42,7 @@ The function will be created and deployed in local and in a Azure account using 
 
 	func new --name classify --template "HTTP trigger"
 
-    • Open start/requirements.txt in a text editor and add the following dependencies required by the helper code and ave the file:
+    • Open project/requirements.txt in a text editor and add the following dependencies required by the helper code and ave the file:
 	tensorflow==1.14
 	Pillow
 	Requests
